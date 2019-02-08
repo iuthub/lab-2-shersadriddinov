@@ -1,0 +1,30 @@
+body{
+	background: #A2EFEF;
+}
+h1{
+	color: red;
+}
+p{
+	color: #AA3939;
+}
+
+.header{
+	font-size: 30px;
+	font-family: 'Tahoma';
+	font-weight: bolder;
+	font-style: italic;
+}
+ul{
+	font-size: 15px;
+	font-family: 'Arial';
+	font-weight: lighter;
+	font-style: normal;
+}
+img{
+	max-height: 150px;
+	max-width: 150px;
+}
+#happy {
+	max-height: 250px; 
+	max-width: 250px;
+}
